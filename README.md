@@ -14,7 +14,32 @@ FAD include three main tools: **mod.lua**, **utils.lua**, and **gui.lua**
 
 
 
+> **Protip**: Use the Factorio
+
+
+
+
+
+
+
+# documentation
+
+
 ## utils.lua
+
+utils.print
+utils.createText
+utils.getArea
+utils.getNearbyEntities
+utils.getEntitiesInFront
+utils.addToExistingTech
+utils.setCircuitCondition
+utils.isValid
+utils.isOpenedEntityNamed
+utils.isOpenedEntity
+utils.addTables
+utils.extendTables
+utils.mergeTables
 
 
 ## mod.lua
